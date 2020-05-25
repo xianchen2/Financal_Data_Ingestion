@@ -10,7 +10,7 @@ This project consists of three major infrastructure elements that work in tandem
 3. A Glue crawler was set up to run AWS Athena queries against data ( DataAnalyzer )
 
 ## DataCollector Lambda Configuration page
-![ScreenShot](https://github.com/xianchen2/Finance_Data_Streaming/blob/master/DataCollector_Lambda_configuration_page.png)
+![ScreenShot](https://github.com/xianchen2/Financal_Data_Streaming/blob/master/DataCollector_Lambda_configuration_page.png)
 
 ## Kinesis Data Firehose Delivery Stream Monitoring page
-![ScreenShot](https://github.com/xianchen2/Finance_Data_Streaming/blob/master/Kinesis%20Data%20Firehose_Delivery_Stream_Monitoring.png)
+![ScreenShot](https://github.com/xianchen2/Financal_Data_Streaming/blob/master/Kinesis%20Data%20Firehose_Delivery_Stream_Monitoring.png)
