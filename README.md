@@ -14,3 +14,6 @@ This project consists of three major infrastructure elements that work in tandem
 
 ## Kinesis Data Firehose Delivery Stream Monitoring page
 ![ScreenShot](https://github.com/xianchen2/Financal_Data_Streaming/blob/master/Kinesis%20Data%20Firehose_Delivery_Stream_Monitoring.png)
+
+## Candlestick Charts
+![ScreenShot](https://github.com/xianchen2/Financal_Data_Streaming/blob/master/Candlestick%20Charts.png)
