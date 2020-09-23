@@ -1,6 +1,5 @@
 # Streaming_Finance_Data
 
-Provision a few Lambda functions to generate near real time finance data records for downstream processing and interactive querying.
 
 **API endpoint:** https://am2k3ccjvj.execute-api.us-east-2.amazonaws.com/default/collector-stream
 
