@@ -6,7 +6,7 @@ Provision a few Lambda functions to generate near real time finance data records
 
 This project consists of three major infrastructure elements that work in tandem:
 1. A **AWS Lambda** function that collects the data ( DataCollector )
-2. **AWS Kinesis Firehose Delivery Stream** (DataTransformer)
+2. A **AWS Lambda** that transforms and places data into S3 ( DataTransformer )
 3. A **AWS Glue crawler** was set up to run **AWS Athena** queries against data ( DataAnalyzer )
 
 ## DataCollector Lambda Configuration page
